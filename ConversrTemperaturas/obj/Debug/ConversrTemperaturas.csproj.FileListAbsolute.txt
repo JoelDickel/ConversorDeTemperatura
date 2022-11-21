@@ -1,0 +1,7 @@
+C:\Users\joelz\source\repos\ConversrTemperaturas\ConversrTemperaturas\bin\Debug\ConversrTemperaturas.exe.config
+C:\Users\joelz\source\repos\ConversrTemperaturas\ConversrTemperaturas\bin\Debug\ConversrTemperaturas.exe
+C:\Users\joelz\source\repos\ConversrTemperaturas\ConversrTemperaturas\bin\Debug\ConversrTemperaturas.pdb
+C:\Users\joelz\source\repos\ConversrTemperaturas\ConversrTemperaturas\obj\Debug\ConversrTemperaturas.csproj.AssemblyReference.cache
+C:\Users\joelz\source\repos\ConversrTemperaturas\ConversrTemperaturas\obj\Debug\ConversrTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\joelz\source\repos\ConversrTemperaturas\ConversrTemperaturas\obj\Debug\ConversrTemperaturas.exe
+C:\Users\joelz\source\repos\ConversrTemperaturas\ConversrTemperaturas\obj\Debug\ConversrTemperaturas.pdb
